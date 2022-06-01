@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(23, 22, 58);
+}
+
+.headerNav{
+    background-color: rgb(0, 184, 184);
+    font-size: 20px;
+}
+
+.navLi:hover{
+    transform: scale(1.1, 1.1);
+}
+
+h1{
+    color: rgb(0, 184, 184);
+    font-family: gemunu;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+p{
+    color: rgb(0, 184, 184);
+}
+
+.bi{
+    color: rgb(0, 184, 184);
+}
+
+.serviciosIconos{
+    border-color: rgb(0, 184, 184);
+    border-style: solid;
+}
+
+.bi:hover{
+    color: white;
+}
+
+.servicios{
+    margin-top: 120px;
+}
+
+.contacto{
+    margin-top: 80px;
+}
+
+#biFooter{
+    color:rgb(23, 22, 58);
+}
+
+.imgPrincipal:hover{
+    transform:scale(1.1, 1.1)
+}
+
+.footerNav{
+    background-color: rgb(0, 184, 184);
+    margin-top: 80px;
+}   
+
+.pFooter{
+    color: rgb(23, 22, 58);
+}
