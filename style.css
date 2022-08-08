@@ -49,10 +49,6 @@ p{
     color:rgb(23, 22, 58);
 }
 
-.imgPrincipal:hover{
-    transform:scale(1.1, 1.1)
-}
-
 .footerNav{
     background-color: rgb(0, 184, 184);
     margin-top: 80px;
