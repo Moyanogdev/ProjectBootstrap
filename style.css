@@ -7,8 +7,17 @@ body{
     font-size: 20px;
 }
 
-.navLi:hover{
-    transform: scale(1.1, 1.1);
+.navbar-toggler{
+    background-color: rgb(23, 22, 58);
+}
+
+.nav-link{
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: rgb(23, 22, 58);
 }
 
 h1{
@@ -38,11 +47,11 @@ p{
 }
 
 .servicios{
-    margin-top: 120px;
+    margin-top: 50px;
 }
 
 .contacto{
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 #biFooter{
