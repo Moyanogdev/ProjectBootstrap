@@ -1,15 +1,20 @@
 body{
     background-color: rgb(23, 22, 58);
+    background-image: url(img/fondoBody.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .headerNav{
     background-color: rgb(0, 184, 184);
     font-size: 20px;
+    text-decoration: none;
 }
 
 .navbar-toggler{
-    background-color: rgb(23, 22, 58);
+    background-color:rgb(23, 22, 58);
 }
+
 
 .nav-link{
     color: whitesmoke;
